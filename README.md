@@ -84,7 +84,4 @@ Busco aportar mis conocimientos en **ingeniería de software y sistemas web** pa
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
------------
 
-✨ Perfil creado por [Uriel Carvajalino](https://github.com/urielcarvajalino)  
-📅 Última edición: Septiembre 2025
