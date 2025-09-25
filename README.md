@@ -21,7 +21,7 @@ Busco aportar mis conocimientos en **ingeniería de software y sistemas web** pa
 
 - 💻 Interés principal: desarrollo backend y soluciones integrales web.  
 - ⚡ Experiencia combinada en **telecomunicaciones + desarrollo de software**.  
-- 📧 Contacto: [![Send me Email](https://img.shields.io/static/v1?label=email&message=UrielCarvajalino&color=EA4335&style=flat-square)](mailto:tuemail@ejemplo.com)  
+- 📧 Contacto: https://www.linkedin.com/in/uriel-carvajalino/
 - 🌍 En constante aprendizaje para mantenerme al día con nuevas tecnologías.  
 
 <br>
