@@ -54,34 +54,3 @@ Busco aportar mis conocimientos en **ingeniería de software y sistemas web** pa
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="left">
-<table align="left">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=urielcarvajalino&theme=dark&show_icons=true&count_private=true" />
-  <br><br>
-  <img title="🔥 Streak Stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=urielcarvajalino&theme=dark&hide_border=false"/> 
-</td>
-
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urielcarvajalino&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-</td>
-</tr>
-</table>
-</p>        
-
-<br>
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=urielcarvajalino&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
-</div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
